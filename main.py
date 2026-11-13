@@ -1,6 +1,6 @@
 from dataclasses import dataclass, field
 from drafter import *
-import periodictable
+
 
 
 """The periodictable library provides atomic masses and parses
