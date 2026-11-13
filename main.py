@@ -1,6 +1,6 @@
 from dataclasses import dataclass, field
 from drafter import *
-
+import periodictable
 
 
 """The periodictable library provides atomic masses and parses
@@ -990,7 +990,7 @@ run_unit_tests()
 set_website_title("Chemistry Assistant")
 set_site_information(
     author="James Casey",
-    description= "Analyze chemical reactions, calculate yields and heat, identify limiting reactants, and save results."
+    description= "Analyze chemical reactions, calculate yields and heat, identify limiting reactants, and save results.",
     sources="Thanks to the Drafter docs and my study group.",
     planning=["plan.pdf", "design.pdf"],
     links=["https://github.com/jdcasey20/chemistryAssistant"]
