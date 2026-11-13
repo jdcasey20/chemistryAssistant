@@ -1,2 +1,2 @@
 # drafter-deployment-template-v1
-Your first Drafter website!
+A chemistry calculator that identifies limiting reactants, calculates theoretical and percent yields, determines reaction heat, and saves previous calculations.
